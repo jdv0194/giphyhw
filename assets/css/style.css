@@ -1,0 +1,62 @@
+#header {
+  background-color: #e50914;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  font-family: "Faster One", cursive;
+}
+
+#header:hover {
+  background-color: black;
+  color: #e50914;
+}
+
+label {
+  font-size: 24px;
+}
+
+#hero-search {
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
+#gifArea {
+  clear: both;
+  display: inline;
+  flex-wrap: wrap;
+}
+
+.hero-giphy {
+  padding: 2px;
+  width: 80%;
+}
+
+.btn {
+  margin: 10px;
+  font-family: "Lobster", cursive;
+}
+
+#addHero {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: #e50914;
+  border: none;
+  color: white;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+#addHero:hover {
+  width: 65px;
+  height: 65px;
+  color: #e50914;
+  background-color: black;
+}
+input {
+  width: 400px;
+  border: 1px solid #e50914;
+  border-radius: 5px;
+}
